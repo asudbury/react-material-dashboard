@@ -3,4 +3,5 @@ A React Material Design Dashboard that highlights how it can be deployed to gith
 https://asudbury.github.io/react-material-dashboard/
 
 
-![Alt text](src\assets\img\scorchio-dashboard.PNG?raw=true)
+![Alt text](/src/assets/img/scorchio-dashboard.PNG?raw=true)
+
