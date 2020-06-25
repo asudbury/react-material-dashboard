@@ -44,6 +44,6 @@ export default function Icons() {
           </CardHeader>
         </Card>
       </GridItem>
-    </GridContainer>
+    </GridContainer> 
   );
 }
