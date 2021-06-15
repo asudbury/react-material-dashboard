@@ -20,16 +20,6 @@ const useStyles = makeStyles(styles);
 
 export default function Header(props) {
   const classes = useStyles();
-  function makeBrand() {
-    var name;
-    props.routes.map((prop) => {
-      if (window.location.href.indexOf(prop.layout + prop.path) !== -1) {
-        name = props.rtlActive ? prop.rtlName : prop.name;
-      }
-      return null;
-    });
-    return name;
-  }
   const { color } = props;
   const appBarClasses = classNames({
     [" " + classes[color]]: color,
