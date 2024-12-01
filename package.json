@@ -39,7 +39,7 @@
     "prettier": "3.4.1"
   },
   "optionalDependencies": {
-    "typescript": "3.9.3"
+    "typescript": "5.7.2"
   },
   "scripts": {
     "predeploy": "npm run build",
